@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+hmmlearn
+yfinance
+numpy
+pandas
+scikit-learn
+apscheduler
+streamlit
+plotly
+requests
