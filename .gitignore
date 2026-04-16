@@ -5,3 +5,4 @@ __pycache__/
 *.egg-info/
 .env
 state_anchors_*.json
+commands.txt
